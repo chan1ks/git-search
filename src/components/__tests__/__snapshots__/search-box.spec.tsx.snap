@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBox renders correctly 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <div
+    className="input-group"
+  >
+    <input
+      className="form-control no-border-radius--right"
+      onChange={[Function]}
+      placeholder="Search a user"
+      type="text"
+    />
+    <button
+      className="btn btn-primary no-border-radius--left"
+      type="submit"
+    >
+      SEARCH
+    </button>
+  </div>
+</form>
+`;

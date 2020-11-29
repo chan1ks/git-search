@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout renders correctly 1`] = `
+<div
+  className="flex column full-height"
+>
+  <div
+    className="typography container-full layout--center full-width grow-1"
+  >
+    <h1
+      style={
+        Object {
+          "marginBottom": "10px",
+        }
+      }
+    >
+      This is a title!
+    </h1>
+    <main />
+  </div>
+  <div
+    className="layout--footer"
+  >
+    <footer>
+      2020
+       | Made with ❤ by
+       
+      <a
+        href="https://github.com/chan1ks"
+      >
+        chan1ks
+      </a>
+       | Built with
+       
+      <a
+        href="https://www.gatsbyjs.com"
+      >
+        Gatsby
+      </a>
+    </footer>
+  </div>
+</div>
+`;

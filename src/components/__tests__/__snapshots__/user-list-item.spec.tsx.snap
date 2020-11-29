@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserListItem renders correctly 1`] = `
+<li
+  className="list-item"
+>
+  <a
+    className="list-item-link"
+    href="https://github.com/can"
+  >
+    <img
+      alt="can"
+      className="list-item-avatar"
+      src="https://avatars2.githubusercontent.com/u/357195?v=4"
+    />
+    <div
+      className="list-item-body"
+    >
+      <div
+        className="user-details"
+      >
+        <p
+          className="user-call-card"
+        >
+          <span
+            className="bold"
+          >
+            Can
+          </span>
+           
+          <span>
+            can
+          </span>
+        </p>
+        <p>
+          Cybersecurity Consultant
+        </p>
+        <div
+          className="flex row"
+        >
+          <span
+            className="light"
+          >
+            Respos: 
+            16
+          </span>
+          <span
+            className="light"
+          >
+            Followers: 
+            36
+          </span>
+        </div>
+      </div>
+      <span
+        className="chevron right"
+      />
+    </div>
+  </a>
+</li>
+`;

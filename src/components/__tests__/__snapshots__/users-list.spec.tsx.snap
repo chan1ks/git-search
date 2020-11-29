@@ -1,0 +1,325 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UsersList renders correctly 1`] = `
+Array [
+  <h2>
+    5
+     github users
+  </h2>,
+  <ul>
+    <li
+      className="list-item"
+    >
+      <a
+        className="list-item-link"
+        href="https://github.com/can"
+      >
+        <img
+          alt="can"
+          className="list-item-avatar"
+          src="https://avatars2.githubusercontent.com/u/357195?v=4"
+        />
+        <div
+          className="list-item-body"
+        >
+          <div
+            className="user-details"
+          >
+            <p
+              className="user-call-card"
+            >
+              <span
+                className="bold"
+              >
+                Can
+              </span>
+               
+              <span>
+                can
+              </span>
+            </p>
+            <p>
+              Cybersecurity Consultant
+            </p>
+            <div
+              className="flex row"
+            >
+              <span
+                className="light"
+              >
+                Respos: 
+                16
+              </span>
+              <span
+                className="light"
+              >
+                Followers: 
+                36
+              </span>
+            </div>
+          </div>
+          <span
+            className="chevron right"
+          />
+        </div>
+      </a>
+    </li>
+    <li
+      className="list-item"
+    >
+      <a
+        className="list-item-link"
+        href="https://github.com/candycat1992"
+      >
+        <img
+          alt="candycat1992"
+          className="list-item-avatar"
+          src="https://avatars3.githubusercontent.com/u/5907064?v=4"
+        />
+        <div
+          className="list-item-body"
+        >
+          <div
+            className="user-details"
+          >
+            <p
+              className="user-call-card"
+            >
+              <span
+                className="bold"
+              >
+                Feng Lele
+              </span>
+               
+              <span>
+                candycat1992
+              </span>
+            </p>
+            <p />
+            <div
+              className="flex row"
+            >
+              <span
+                className="light"
+              >
+                Respos: 
+                12
+              </span>
+              <span
+                className="light"
+              >
+                Followers: 
+                2280
+              </span>
+            </div>
+          </div>
+          <span
+            className="chevron right"
+          />
+        </div>
+      </a>
+    </li>
+    <li
+      className="list-item"
+    >
+      <a
+        className="list-item-link"
+        href="https://github.com/caniszczyk"
+      >
+        <img
+          alt="caniszczyk"
+          className="list-item-avatar"
+          src="https://avatars1.githubusercontent.com/u/63777?v=4"
+        />
+        <div
+          className="list-item-body"
+        >
+          <div
+            className="user-details"
+          >
+            <p
+              className="user-call-card"
+            >
+              <span
+                className="bold"
+              >
+                Chris Aniszczyk
+              </span>
+               
+              <span>
+                caniszczyk
+              </span>
+            </p>
+            <p>
+              always paying it forward
+            </p>
+            <div
+              className="flex row"
+            >
+              <span
+                className="light"
+              >
+                Respos: 
+                70
+              </span>
+              <span
+                className="light"
+              >
+                Followers: 
+                520
+              </span>
+            </div>
+          </div>
+          <span
+            className="chevron right"
+          />
+        </div>
+      </a>
+    </li>
+    <li
+      className="list-item"
+    >
+      <a
+        className="list-item-link"
+        href="https://github.com/cantino"
+      >
+        <img
+          alt="cantino"
+          className="list-item-avatar"
+          src="https://avatars0.githubusercontent.com/u/83835?v=4"
+        />
+        <div
+          className="list-item-body"
+        >
+          <div
+            className="user-details"
+          >
+            <p
+              className="user-call-card"
+            >
+              <span
+                className="bold"
+              >
+                Andrew Cantino
+              </span>
+               
+              <span>
+                cantino
+              </span>
+            </p>
+            <p>
+              Ruby ◊ JS ◊ Rust ◊ Science ◊ Space ◊ InfoSec ◊ ML ◊ Greentech
+            </p>
+            <div
+              className="flex row"
+            >
+              <span
+                className="light"
+              >
+                Respos: 
+                36
+              </span>
+              <span
+                className="light"
+              >
+                Followers: 
+                635
+              </span>
+            </div>
+          </div>
+          <span
+            className="chevron right"
+          />
+        </div>
+      </a>
+    </li>
+    <li
+      className="list-item"
+    >
+      <a
+        className="list-item-link"
+        href="https://github.com/burakcan"
+      >
+        <img
+          alt="burakcan"
+          className="list-item-avatar"
+          src="https://avatars2.githubusercontent.com/u/3121257?v=4"
+        />
+        <div
+          className="list-item-body"
+        >
+          <div
+            className="user-details"
+          >
+            <p
+              className="user-call-card"
+            >
+              <span
+                className="bold"
+              >
+                Burak Can
+              </span>
+               
+              <span>
+                burakcan
+              </span>
+            </p>
+            <p />
+            <div
+              className="flex row"
+            >
+              <span
+                className="light"
+              >
+                Respos: 
+                49
+              </span>
+              <span
+                className="light"
+              >
+                Followers: 
+                609
+              </span>
+            </div>
+          </div>
+          <span
+            className="chevron right"
+          />
+        </div>
+      </a>
+    </li>
+  </ul>,
+  <ul
+    className="pagination"
+  >
+    <li
+      className="previous disabled"
+    >
+      <a
+        aria-disabled="true"
+        aria-label="Previous page"
+        onClick={[Function]}
+        onKeyPress={[Function]}
+        role="button"
+        tabIndex="0"
+      >
+        previous
+      </a>
+    </li>
+    <li
+      className="next"
+    >
+      <a
+        aria-disabled="false"
+        aria-label="Next page"
+        onClick={[Function]}
+        onKeyPress={[Function]}
+        role="button"
+        tabIndex="0"
+      >
+        next
+      </a>
+    </li>
+  </ul>,
+]
+`;
