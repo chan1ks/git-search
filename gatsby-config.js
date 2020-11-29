@@ -5,6 +5,20 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [],
-}
+  plugins: [
+    'gatsby-plugin-typescript',
+    'gatsby-plugin-sass',
+    {
+      resolve: `gatsby-plugin-google-fonts-v2`,
+      options: {
+        fonts: [
+          {
+            family: 'Anton',
+            variable: true,
+            weights: ['200..900'],
+          },
+        ],
+      },
+    },
+  ],
+};

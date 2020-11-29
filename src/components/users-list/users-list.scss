@@ -1,0 +1,38 @@
+$color-1: #495057;
+$pagination-boundary: 1rem;
+
+h2 {
+  margin-bottom: 1rem;
+  color: $color-1;
+}
+
+// React Pagination Styles
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  padding-left: $pagination-boundary;
+  padding-right: $pagination-boundary;
+}
+
+.previous,
+.next,
+.page {
+  cursor: pointer;
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  &.disabled {
+    cursor: not-allowed;
+
+    a:hover {
+      text-decoration: none;
+    }
+  }
+
+  &:focus,
+  a:focus {
+    outline: none;
+  }
+}
