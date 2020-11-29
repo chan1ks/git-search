@@ -31,6 +31,12 @@ const INITIAL_APP_STATE: AppState = {
   error: null,
 };
 
+/**
+ * Callback for search handler and pagination side effects.
+ * Should only be used if a `searchTerm` is provided.
+ * @param appState
+ * @param setAppState
+ */
 const getUsers = async (
   appState: AppState,
   setAppState: Dispatch<SetStateAction<AppState>>
@@ -66,7 +72,6 @@ const App = () => {
     error,
     searching,
   } = appState;
-  console.log(appState);
 
   useEffect(() => {
     handleCallback();

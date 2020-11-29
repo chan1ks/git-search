@@ -46,7 +46,6 @@ const UsersList = ({
           <UserListItem user={user} key={i} />
         ))}
       </ul>
-
       <ReactPaginate
         previousLabel={'previous'}
         nextLabel={'next'}
